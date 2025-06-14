@@ -1,10 +1,10 @@
 import { UserConfig } from "./src/config"
 
 const userConfig: UserConfig = {
-    base_url: "https://notion-hugo.pages.dev",
+    base_url: "https://lycheebar.org",
     mount: {
         manual: false,
-        page_url: 'https://pcloud.notion.site/Notion-DoIt-04bcc51cfe4c49938229c35e4f0a6fb6',
+        page_url: 'https://vihko.notion.site/Notion-Hugo-2122ba3cd2b480e19a27ef8823df27f5?source',
         pages: [
             // {
             //     page_id: '<page_id>',
